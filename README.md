@@ -13,4 +13,4 @@ Liubov Nesterenko
 Anastasia Drozhzhina, Yulia Kuznetsova, Liubov Nesterenko
 
 #### Students, contributed to the data set creation: 
-Philipp Burlakhov, Nastya Gobova, Elina Kamaeva, Polina Karpova, Anastasia Khornilova, Victoria Knyazkova, Ekaterina Neminova, Alyona Olshevskaya, Maria Ostrovskaya, Kseniia Revak, Ksenia Sherman, Varya Smirnova, Angelina Stepanova, Maxim Stepanyants, Ann Tkach
+Vlada Berlin, Philipp Burlakhov, Andrei Chirkin, Nastya Gobova, Elina Kamaeva, Polina Karpova, Anastasia Khornilova, Victoria Knyazkova, Ekaterina Neminova, Alyona Olshevskaya, Maria Ostrovskaya, Kseniia Revak, Ksenia Sherman, Varya Smirnova, Angelina Stepanova, Maxim Stepanyants, Ann Tkach
